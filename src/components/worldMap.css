@@ -1,0 +1,10 @@
+.world-map-root {
+  position: fixed;
+  inset: 0;
+  background: black;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+}
